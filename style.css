@@ -134,8 +134,8 @@
  }
 .lista__link a{
   text-decoration: none;
-  color: var(--branco-principal)
-  margin-left: 1em;
+  color: var(--branco-principal);
+  margin-left:  1em;
 }
 .rodape__texto{
   margin: 1em 0 ;
